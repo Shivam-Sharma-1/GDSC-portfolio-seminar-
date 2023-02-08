@@ -1,7 +1,7 @@
 # GDSC-portfolio-seminar
 
 Keep the file names as follows:
-about_me.html
+about.html
 
 projects.html
 projects-style.css
